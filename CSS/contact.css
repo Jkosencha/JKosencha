@@ -1,0 +1,22 @@
+.button{
+    color: royalblue;
+}
+.j-form{
+    background: grey;
+    padding: 0 8px;
+    padding-top: 8px;
+
+}
+.j-form input, button {
+    padding: 15px;
+    margin: 20px;
+    width: 90%;
+}
+.j-form textarea{
+    width: 90%;
+    padding: 15px;
+    margin: 20px;
+}
+.j-info i{
+    color: darkred;
+}

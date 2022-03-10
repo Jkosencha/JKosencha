@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+.bg{
+    background-color: white;
+    width: 50%;
+}
+h2{
+    font-family: sans-serif;
+    color: black;
+}
